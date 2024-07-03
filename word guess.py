@@ -1,5 +1,5 @@
 import random
-words=["hello","hai","likki","ajay"]
+words=["hello","hai","how","you"]
 turns=12
 guesses=""
 word=random.choice(words)
