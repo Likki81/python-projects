@@ -11,5 +11,5 @@ try:
     seconds=int(input('enter a secods'))   
     time_countdown(seconds) 
 except valueError:
-    print("invalid")   
+    print("Invalid input please enter time in seconds")   
     
